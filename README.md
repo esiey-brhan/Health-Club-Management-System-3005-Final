@@ -1,6 +1,8 @@
 # Health-Club-Management-System-3005-Final
 #Name - Esiey Brhane
 #Stuid - 101258410
+#Special Case
+-The original video weirdly started recording half way through and only half the screen. I have re recorded and placed the video here -> https://youtu.be/f8QCtZO6tNg
 
 #Project Synopsis
 The gym management database is designed to streamline the operations of a fitness center, managing memberships, sessions, equipment maintenance, and billing. Members are linked to a single membership type and can enroll in various sessions, while each session is conducted by a designated trainer in a specific room. Trainers can lead multiple sessions, but not all are actively doing so. Financial transactions are tracked through bills, with members possibly having multiple outstanding payments. Rooms and equipment are closely monitored, with equipment requiring regular maintenance logged and managed by staff. This efficient and structured system ensures that all aspects of gym management, from member engagement to facility upkeep, are meticulously organized and easily accessible.
@@ -14,5 +16,7 @@ PostGreJavaDB - this is the command line interface that connects to the database
 - To use the application, you will have to unzip the HealthManagementSystem.zip file and have the jvm on your machine already.
 - From there, I have included the postgresql.jar file that will allow you to connect to the database.
 - Simply add the file to your classpath and it will work. Then run the executable and use as intended.
-  
+
+#Special Case
+-The original video weirdly started recording half way through and only half the screen. I have re recorded and placed the video here -> https://youtu.be/f8QCtZO6tNg
   
